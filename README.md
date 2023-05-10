@@ -21,9 +21,10 @@ A comprehensive home automation system built using Arduino, Blynk, and the Picsi
 
 - Picsimlab Simulator: Virtual hardware testing and simulation.
 
-### Project Structure
+### Project Demonstration
 
-- `ArduinoCode/`: Contains the Arduino code for the home automation system.
+- Watch a video demonstration of the project on [YouTube](https://www.youtube.com/watch?v=Aqj4brLRd_c&t=116s).
+
 
 ### How to Use
 
